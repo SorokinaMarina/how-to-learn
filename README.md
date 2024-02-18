@@ -26,7 +26,7 @@ ___
 
 
 
-[Ссылка на проект "Научиться учиться" gh-pages](https://sorokinamarina.github.io/how-to-learn/)
+[Ссылка на проект gh-pages](https://sorokinamarina.github.io/how-to-learn/)
 
 
 
